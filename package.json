@@ -1,11 +1,11 @@
 {
-    "name": "lab4",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-      "start": "node app"
-    },
-    "author": "",
-    "license": "ISC"
-  }
+  "name": "CPE207_hw4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC"
+}
